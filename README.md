@@ -1,4 +1,4 @@
-# Introduction/
+# Introduction
 The main idea was to create a small quest application based on servlets. Also to raise a little front-end development skills.
 
 # Technologies Used
